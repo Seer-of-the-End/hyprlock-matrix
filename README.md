@@ -30,7 +30,3 @@
 - This theme is based on my own setup and customized by hand.
 - You can edit text, colors, blur, and layout to fit your desktop.
 - The `fastfetch` line is used for a small system info block.
-
-## License
-
-MIT
