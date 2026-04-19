@@ -1,9 +1,7 @@
 # hyprlock-matrix
 
 ## Preview
-
-<img src="https://github.com/Seer-of-the-End/hyprlock-matrix/blob/Origin/theme.jpg" alt="Preview" width="360">
-<img src="https://github.com/Seer-of-the-End/hyprlock-matrix/blob/Origin/scrHyprlock.jpg" alt="Preview" width="360">
+<img src="https://github.com/Seer-of-the-End/hyprlock-matrix/blob/Origin/theme.jpg" alt="Preview" width="360"> <img src="https://github.com/Seer-of-the-End/hyprlock-matrix/blob/Origin/scrHyprlock.jpg" alt="Preview" width="360">
 
 ## Features
 
