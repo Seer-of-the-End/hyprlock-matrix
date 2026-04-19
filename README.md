@@ -1,11 +1,9 @@
 # hyprlock-matrix
-Custom Hyprlock theme with matrix-inspired terminal style.
-
-Hi 
 
 ## Preview
 
-> Add a screenshot here after you push the repo.
+<img src="https://github.com/Seer-of-the-End/hyprlock-matrix/blob/Origin/theme.jpg" alt="Preview" width="360">
+<img src="https://github.com/Seer-of-the-End/hyprlock-matrix/blob/Origin/scrHyprlock.jpg" alt="Preview" width="360">
 
 ## Features
 
